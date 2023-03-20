@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-//namespace IndieMarc.Platformer
-
-
     public class FollowCameraRGTL : MonoBehaviour
     {
         [Header("Camera Target")]
